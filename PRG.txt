@@ -8,3 +8,13 @@
 8. deporte https://dle.rae.es/deporte?m=form
 9. azul https://dle.rae.es/azul?m=form
 10. felicidad https://dle.rae.es/felicidad?m=form
+11. Ordenador https://dle.rae.es/ordenador?m=form
+12. Chaqueta https://dle.rae.es/chaqueta?m=form
+13. Jersey https://dle.rae.es/jersey?m=form
+14. Rojo https://dle.rae.es/rojo?m=form
+15. Pelo https://dle.rae.es/pelo?m=form
+16. Gorro https://dle.rae.es/gorro?m=form
+17. Rosa https://dle.rae.es/rosa?m=form
+18. Fútbol https://dle.rae.es/f%C3%BAtbol?m=form
+19. Peca https://dle.rae.es/peca?m=form
+20. Pulga https://dle.rae.es/pulga?m=form
